@@ -1,0 +1,14 @@
+# Core data / ML
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Configuration / utilities
+python-dotenv
+pydantic
+
+# Testing
+pytest
